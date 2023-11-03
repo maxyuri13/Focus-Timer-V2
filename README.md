@@ -48,7 +48,7 @@
 $ git clone https://github.com/maxyuri13/Focus-Timer-V2.git
 
 # Ir para o repositório
-$ cd FocusTimer
+$ cd Focus-Timer-V2
 ```
 
 ### 💡 Pré Requisitos
