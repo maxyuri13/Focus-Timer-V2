@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    ⏳ Focus Timer
+    ⏲️ Focus Timer V2
 </h1>
 <p align="center">
  Seja bem-vindo ao Focus Timer V2, a próxima geração da sua ferramenta essencial para impulsionar a produtividade e aprimorar a gestão do tempo. Inspirado na técnica Pomodoro, mas agora com recursos ainda mais avançados, o Focus Timer V2 está aqui para ajudá-lo a elevar seus níveis de concentração, manter o foco e otimizar sua eficiência no trabalho.
