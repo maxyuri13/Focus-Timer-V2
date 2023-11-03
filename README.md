@@ -1,14 +1,64 @@
-# Project-Focus-timer-v2
+<h1 align="center"> 
+    ⏳ Focus Timer
+</h1>
+<p align="center">
+ Seja bem-vindo ao Focus Timer V2, a próxima geração da sua ferramenta essencial para impulsionar a produtividade e aprimorar a gestão do tempo. Inspirado na técnica Pomodoro, mas agora com recursos ainda mais avançados, o Focus Timer V2 está aqui para ajudá-lo a elevar seus níveis de concentração, manter o foco e otimizar sua eficiência no trabalho.
+</p>
 
-<strong>PT-BR</strong>
+### 📰 Layout
 
-Uma versão aprimorada que revoluciona o estilo da aplicação, incorporando quatro tipos distintos de sons, além dos sons padrão dos botões, bem como animações e outros recursos adicionais.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language), <strong>CSS3</strong> (Cascading Style Sheets) e <strong>JS</strong> (JavaScript).
-<br><br>
+<p align="center">
+  <strong>Modo Noturno</strong>
+  <br>
+  <img
+    alt="Focus Timer V2"
+    title="Focus Timer V2"
+    src="/Assets/Focus Timer V2 Night Mode.png" width="75%" height="75%"
+  />
+  <br>
+  <strong>Modo Dia</strong>
+  <br>
+  <img
+    alt="Focus Timer V2"
+    title="Focus Timer V2"
+    src="/Assets/Focus Timer V2 Sun Mode.png" width="75%" height="25%"
+  />
+</p>
 
-<strong>EN</strong>
+### 👀 Métodologias utilizadas 
+  - Desenvolvimento Ágil
+  - Método Pomodoro
+  - Design Thinking
+  - Modo Noturno/Modo Dia
+  - Trilhas sonoras relaxantes
+  - Feedback Sonoro Customizado
 
-An enhanced version that completely overhauls the application's style, incorporating four distinct types of sounds in addition to the standard button sounds, as well as animations and other additional features.
-<br><br>
-Técnologias utilizadas: <strong>HTML5</strong> (HyperText Markup Language), <strong>CSS3</strong> (Cascading Style Sheets) and <strong>JS</strong> (JavaScript).
+### ✈️ Tecnologias utilizadas
+  - HTML
+  - CSS
+  - Figma
+  - JavaScript
+  - Git
+  - VSCode (Editor de código)
+  
+### ⚙️ Como Rodar
+
+```bash
+# Clonar o repositório
+$ git clone https://github.com/maxyuri13/Focus-Timer-V2.git
+
+# Ir para o repositório
+$ cd FocusTimer
+```
+
+### 💡 Pré Requisitos
+  - É essencial ter um editor de código, como o Visual Studio Code, para visualizar o código ou abrir o projeto em sua máquina. 
+
+
+### 📝 Licença
+
+- Este projeto esta sobe a licença [MIT](/LICENSE).
+
+### ✍ Autor
+
+- Feito com 💛 por Max Yuri 👋🏽 [Entre em contato!](https://www.linkedin.com/in/maxyuri13/)
